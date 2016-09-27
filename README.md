@@ -9,11 +9,9 @@
 
 ## 需求简要说明
 
- - 墨刀的原型图链接地址:[https://modao.cc/app/n3pXMr6Jr4qnRKIRr0cRL7YMeIacMGJ](https://modao.cc/app/n3pXMr6Jr4qnRKIRr0cRL7YMeIacMGJ).
+ - 墨刀的原型图链接地址： [https://modao.cc/app/n3pXMr6Jr4qnRKIRr0cRL7YMeIacMGJ](https://modao.cc/app/n3pXMr6Jr4qnRKIRr0cRL7YMeIacMGJ)
 
- - 微信扫码查看原型图:
-
-![code](https://raw.githubusercontent.com/wodenwang/weixin-xiaochengxu-vote/master/screenshot/modao_cde.png)
+ - 微信扫码查看原型图： ![code](https://github.com/wodenwang/weixin-xiaochengxu-vote/blob/master/screenshot/modao_code.png?raw=true)
 
 ## 后端云服务
 
