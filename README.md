@@ -6,6 +6,9 @@
  - 后端开发采用java，详情查看另外独立项目（待补充）
 
 ## 需求简要说明
+墨刀的原型图链接地址:[https://modao.cc/app/n3pXMr6Jr4qnRKIRr0cRL7YMeIacMGJ](https://modao.cc/app/n3pXMr6Jr4qnRKIRr0cRL7YMeIacMGJ)
+微信扫码查看原型图:
+![code](./screenshot/modao_cde.png)
 
 
 ## 后端云服务
