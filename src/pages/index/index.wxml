@@ -1,3 +1,4 @@
+<!-- 准备美化页面 -->
 <form class="page" catchsubmit="formSubmit">
 
   <view class="page__hd">
