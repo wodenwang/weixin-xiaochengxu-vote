@@ -12,6 +12,9 @@
  - 微信扫码查看原型图： <br/>
    ![code](https://github.com/wodenwang/weixin-xiaochengxu-vote/blob/master/screenshot/modao_code.png)
 
+ - 开发工具效果图： <br/>
+   ![code](https://github.com/wodenwang/weixin-xiaochengxu-vote/blob/master/screenshot/demo.gif)
+
 ## 后端云服务
  - 暂时提供一个BPMT云端地址来做服务,确保开发者可以直接访问
 
