@@ -1,7 +1,8 @@
 
+var host = 'http://localhost:8080';
 
 module.exports = {
-    titleUrl: 'http://management.gzriver.com/_mbZKT1NM9X.view', //获取投票
-    resultUrl: 'http://management.gzriver.com/ibBK_f2NM9X.view',//查看投票结果
-    submitUrl: 'http://management.gzriver.com/ezJlbc2NM9X.view', //提交投票
+    titleUrl: `${host}/request/vote/title.js`, //获取投票
+    resultUrl: `${host}/request/vote/result.js`,//查看投票结果
+    submitUrl: `${host}/request/vote/submit.js`, //提交投票
 }
