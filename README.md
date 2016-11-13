@@ -97,7 +97,7 @@ insert into `DEMO_VOTE_DETAIL` (VOTE_ID,CONTENT,SORT) select max(ID),'小程序'
 ## 更多关于NAMI
 - GITHUB地址： [https://github.com/wodenwang/nami](https://github.com/wodenwang/nami)
 - NAMI介绍： [http://riversoft.com.cn/nami.html](http://riversoft.com.cn/nami.html)
-- 本DEMO视频： （待补充）
+- 本DEMO视频： [NAMI来了！五分钟让微信小程序接上数据库（含视频）](http://mp.weixin.qq.com/s?__biz=MzI2MDE0MjA5MQ==&mid=2247483854&idx=1&sn=5c80bf25dbbbc7637c758929bf5d237d&chksm=ea6f64aadd18edbc6bf84be857711886f072d01c5bd07804befeb77e82e7283569187c1fb178#rd)
 
 ## 联系我们
 *欢迎关注我的公众号：全栈生姜头* <br/>
